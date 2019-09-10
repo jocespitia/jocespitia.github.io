@@ -6,7 +6,7 @@
 body {
     font-family: Muli,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
     padding-top: 54px;
-    color: #C9A690
+    color: #888C91
 }
 
 @media (min-width: 992px) {
@@ -20,7 +20,7 @@ h1,h2,h3,h4,h5,h6 {
     font-family: 'Saira Extra Condensed',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
     font-weight: 700;
     text-transform: uppercase;
-    color: #253C78
+    color: #424874
 }
 
 h1 {
@@ -37,7 +37,7 @@ h2 {
 
 h3 {
     font-size: 2rem;
-    color: #2B59C3;
+    color: #B8B3CE;
 }
 
 p.lead {
@@ -50,14 +50,14 @@ p.lead {
     font-weight: 500;
     font-family: 'Saira Extra Condensed',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
     font-size: 1.5rem;
-    color: #253C78
+    color: #424874
 }
 
 .social-icons a {
     display: inline-block;
     height: 3.5rem;
     width: 3.5rem;
-    background-color: #D36582;
+    background-color: #A6B1E1;
     color: #FFF!important;
     border-radius: 100%;
     text-align: center;
@@ -71,17 +71,17 @@ p.lead {
 }
 
 .social-icons a:hover {
-    background-color: #253C78
+    background-color: #424874
 }
 
 .dev-icons {
     font-size: 3rem;
     background-color: #FFF;
-    color: #D36582!important;
+    color: #A6B1E1!important;
 }
 
 .dev-icons .list-inline-item i:hover {
-    color: #253C78
+    color: #424874
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -91,7 +91,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-    outline-color: #D36582
+    outline-color: #A6B1E1
 }
 
 @media (min-width: 992px) {
@@ -122,7 +122,7 @@ p.lead {
     #sideNav .navbar-brand .img-profile {
         max-width: 10rem;
         max-height: 10rem;
-        border: .5rem solid D36582(255,255,255,.2)
+        border: .5rem solid B8B3CE(255,255,255,.2)
     }
 
     #sideNav .navbar-collapse {
@@ -184,17 +184,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-    background-color: #253C78!important
+    background-color: #424874!important
 }
 
 .text-primary {
-    color: #2B59C3!important
+    color: #B8B3CE!important
 }
 
 a {
-    color: #2B59C3
+    color: #424874
 }
 
 a:active,a:focus,a:hover {
-    color: #D36582
+    color: #A6B1E1
 }
