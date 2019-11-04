@@ -6,7 +6,7 @@ I am a senior computer science student at California State University, Long Beac
 
 Check out my site out here: https://jocelynespitia.com/
 
-#Future Updates:
+# Future Updates:
 I plan on adding more animations and a splash page!
 
 Package credit: https://github.com/BlackrockDigital/startbootstrap-resume
