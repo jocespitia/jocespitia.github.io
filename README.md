@@ -10,6 +10,6 @@ Check out my site out here: https://jocelynespitia.com/
 * I plan on adding more animations and a splash page!
 
 
-
+# Last Updated: April 2020
 Package credit: https://github.com/BlackrockDigital/startbootstrap-resume
 
